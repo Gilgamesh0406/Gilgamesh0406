@@ -34,15 +34,15 @@ Building seamless digital experiences is my passion, whether it’s a dynamic we
 ---
 
 ## 🔥 Featured Projects  
-https://atomlearning.com/
-https://www.tripadvisor.com/
-https://yalycouture.com/
-https://www.bluehousetravel.com/
-https://www.madpaws.com.au/
-https://motolux.ua/
-https://hoibaking.com/
-https://feety.com/
-https://unik.style/
+* https://atomlearning.com/
+* https://www.tripadvisor.com/
+* https://yalycouture.com/
+* https://www.bluehousetravel.com/
+* https://www.madpaws.com.au/
+* https://motolux.ua/
+* https://hoibaking.com/
+* https://feety.com/
+* https://unik.style/
 ---
 
 ---
