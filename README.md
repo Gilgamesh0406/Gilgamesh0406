@@ -34,6 +34,9 @@ Building seamless digital experiences is my passion, whether it’s a dynamic we
 ---
 
 ## 🔥 Featured Projects  
+* https://listnr.ai/
+* https://sendshort.ai/
+* https://www.vadoo.tv/
 * https://atomlearning.com/
 * https://www.tripadvisor.com/
 * https://yalycouture.com/
